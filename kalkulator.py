@@ -1,3 +1,5 @@
+login = input("Wpisz swoj login")
+print(f"Hej {login}")
 a = int(input("Podaj wartosc a:")
 b = int(input("Podaj wartosc b:")
 wybor = int(input("Wybierz 1 - dzielenie a / b, wybierz 2 - dzielenie b / a")
