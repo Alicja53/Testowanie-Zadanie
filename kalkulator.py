@@ -15,3 +15,4 @@ else:
   wynik = b/a 
 
 print(wynik)
+print("zmiana")
